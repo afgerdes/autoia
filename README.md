@@ -16,3 +16,4 @@ Todo:
 -Plotting.
 -Howto access the solutions plots from auto. 
 I have got this data, but am actually thinking about restarting the julia-based simulation methods at every "interesting" parameter step
+-specification of the "c..."-files...
